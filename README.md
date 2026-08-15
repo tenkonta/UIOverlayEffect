@@ -1,4 +1,5 @@
 <img width="1920" height="1080" alt="UI焼き込み 2026-08-15 15-32-33" src="https://github.com/user-attachments/assets/4a839e21-137f-4ecb-95b3-c775168958c6" />
+
 # UI焼き込み プラグイン 1.0.0
 
 このプラグインは、ゆっくりMovieMaker4（YMM4）のプレビュー上のUIを再現し、選択状態に関わらず常に表示するための拡張機能です。
